@@ -11,6 +11,6 @@ Before opening an issue:
 3. Reproduce with custom segments and themes disabled when possible.
 4. Check that the issue also occurs on a supported Node.js version.
 
-Use [GitHub Issues](https://github.com/okturan/claude-statusblocks/issues) for reproducible bugs and focused feature requests. Include the package version, operating system, Node.js version, terminal width, expected behavior, and a minimal sanitized reproduction. Do not post transcripts, credentials, private repository content, personal paths, or full Claude Code settings.
+Use [GitHub Issues](https://github.com/okanerturan/claude-statusblocks/issues) for reproducible bugs and focused feature requests. Include the package version, operating system, Node.js version, terminal width, expected behavior, and a minimal sanitized reproduction. Do not post transcripts, credentials, private repository content, personal paths, or full Claude Code settings.
 
 This project is maintained without a response-time or resolution-time guarantee. Security-sensitive reports belong in the private channel described by [SECURITY.md](SECURITY.md), not in public issues.

@@ -1,6 +1,6 @@
 {
   "name": "claude-statusblocks",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "description": "Opinionated, adaptive block-based status line for Claude Code with bin-packing layout, rate limit tracking, and campaign monitoring",
   "type": "module",
   "bin": {
@@ -35,14 +35,14 @@
     "bin-packing",
     "layout"
   ],
-  "homepage": "https://github.com/okturan/claude-statusblocks#readme",
+  "homepage": "https://github.com/okanerturan/claude-statusblocks#readme",
   "bugs": {
-    "url": "https://github.com/okturan/claude-statusblocks/issues"
+    "url": "https://github.com/okanerturan/claude-statusblocks/issues"
   },
   "author": "Okan Turan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okturan/claude-statusblocks"
+    "url": "https://github.com/okanerturan/claude-statusblocks"
   },
   "engines": {
     "node": ">=20"

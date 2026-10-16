@@ -6,7 +6,7 @@ Security fixes target the current npm `latest` release and the current `main` br
 
 ## Reporting a vulnerability
 
-Do not disclose a suspected vulnerability in a public issue, discussion, or pull request. Use GitHub's [private vulnerability reporting form](https://github.com/okturan/claude-statusblocks/security/advisories/new).
+Do not disclose a suspected vulnerability in a public issue, discussion, or pull request. Use GitHub's [private vulnerability reporting form](https://github.com/okanerturan/claude-statusblocks/security/advisories/new).
 
 Include the affected package version and platform, reproduction steps, impact, and any suggested mitigation. Remove personal paths, repository content, Claude Code status-line payloads, transcripts, settings, environment values, and credentials from attachments and logs.
 
